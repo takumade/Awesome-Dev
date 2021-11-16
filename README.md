@@ -182,8 +182,10 @@ This is a repo of all the awesome stuff that i personally liked/loved 💓. This
   - [Meraki UI](https://merakiui.com/) - Beautiful Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode.
   - [Kitwind](https://kitwind.io/) - A marketplace of fully responsive, multi-purpose UI kits, built with Tailwind CSS, for start-ups and products of any kind.
   - [Tailblocks](https://tailblocks.cc/) - Ready to use Tailwind UI components
-  - [DaisyUI] - Free Tailwind components
-  - [GustUI] - Free react components made in Tailwind CSS
+  - [DaisyUI](https://daisyui.com/) - Free Tailwind components
+  - [GustUI](https://www.gustui.com/) - Free react components made in Tailwind CSS
+  - [Material Tailwind](https://material-tailwind.com/) - is an easy to use components library for Tailwind CSS and Material Design.
+  - [Tail Kit](https://www.tailwind-kit.com/) - Tail-kit gives you access to over 250 free components and free templates, based on Tailwind CSS 2.0.
 - [Web Performance Budget](https://github.com/pajaydev/awesome-web-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
 - [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) - Animations in the browser with JavaScript, CSS, SVG, etc.
 - [Yew](https://github.com/jetli/awesome-yew#readme) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
