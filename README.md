@@ -122,6 +122,8 @@ This is a repo of all the awesome stuff that i personally liked/loved 💓. This
 - [React](https://github.com/enaqx/awesome-react#readme) - App framework.
 	- [Relay](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
 	- [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) - A new feature that lets you use state and other React features without writing a class.
+	- [Recoil: State Management](https://dev.to/sonalake/react-state-management-with-recoil-3fpk) - State Management with Recoil
+	- [Recoil](https://dev.to/akashshyam/why-i-stopped-using-redux-and-used-recoil-instead-e6a) - Why I stopped using Redux and Used Recoil Instead
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way#readme)
 - [Polymer](https://github.com/Granze/awesome-polymer#readme) - JavaScript library to develop Web Components.
 - [Angular](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
