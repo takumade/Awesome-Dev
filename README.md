@@ -30,6 +30,7 @@ This is a repo of all the awesome stuff that i personally liked/loved 💓. This
 - [Content Management Systems](#content-management-systems)
 - [Business](#business)
 - [Work](#work)
+- [Jobs](#jobs)
 - [Testing](#testing)
 - [Miscellaneous](#miscellaneous)
 - [Related](#related)
@@ -334,6 +335,7 @@ This is a repo of all the awesome stuff that i personally liked/loved 💓. This
 - [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb#readme)
 - [Neo4j](https://github.com/neueda/awesome-neo4j#readme)
 - [MongoDB](https://github.com/ramnes/awesome-mongodb#readme) - NoSQL database.
+	- [CRUD with MongoDB](https://zellwk.com/blog/crud-express-mongodb/) - Building a Simple CRUD app with Node, Express, and MongoDB
 - [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb#readme)
 - [TinkerPop](https://github.com/mohataher/awesome-tinkerpop#readme) - Graph computing framework.
 - [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres#readme) - Object-relational database.
@@ -416,6 +418,14 @@ This is a repo of all the awesome stuff that i personally liked/loved 💓. This
 - [Code Review](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 - [Creative Technology](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
 - [Internships](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
+
+## Jobs
+- [Django Gigs](https://djangogigs.com/) - Django work
+- [Python Jobs HQ](https://www.pythonjobshq.com/) - Python Jobs HQ
+- [Glassdoor](https://www.glassdoor.com/member/home/index.htm) -  Job posting
+- [Indeed](https://za.indeed.com/) - Find jobs
+- [Remote Python](https://www.remotepython.com/) - Find remote python jobs 
+
 
 
 ## Testing
