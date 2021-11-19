@@ -106,10 +106,10 @@ This is a repo of all the awesome stuff that i personally liked/loved 💓. This
 - [Kotlin](https://github.com/KotlinBy/awesome-kotlin#readme)
 - [PHP](https://github.com/ziadoz/awesome-php#readme) - Server-side scripting language.
 	- [Composer](https://github.com/jakoch/awesome-composer#readme) - Package manager.
-- [Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
 
 ## Front-End Development
 
+- [Alligator IO](https://alligator.io) - Front-End Development chewed up!
 - [ES6 Tools](https://github.com/addyosmani/es6-tools#readme)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme)
 - [Web Tools](https://github.com/lvwzhen/tools#readme)
