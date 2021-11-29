@@ -176,6 +176,9 @@ This is a repo of all the awesome stuff that i personally liked/loved 💓. This
 - [Preact](https://github.com/preactjs/awesome-preact#readme) - App framework.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - Framework for server-rendered React apps.
+	- [NextJS Handbook](https://www.freecodecamp.org/news/the-next-js-handbook/) - The NextJS handbook
+	- [NextJS Cheatsheet](https://gourav.io/blog/nextjs-cheatsheet) - NextJS Open source cheatsheet
+	- [NextJS TypeScript Cheatsheet](https://www.saltycrane.com/cheat-sheets/typescript/next.js/latest/) - NextJS Typescript cheatsheet
 - [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) - HTML templating library for JavaScript.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup.
 - [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
